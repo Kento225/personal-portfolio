@@ -1,4 +1,3 @@
-import { useState } from "react";
 import "./App.css";
 import reactLogo from "./assets/react-original-wordmark.svg";
 import jsLogo from "./assets/javascript-plain.svg";
